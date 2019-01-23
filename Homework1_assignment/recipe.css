@@ -5,7 +5,8 @@ body {
  font-size: 11pt;
  font-family: "Georgia","Garamond",serif;
  margin-left:50px;
- margin-top:-400px;
+ top:-500px;
+ position:relative;
 }
 a {
   color: #A4A400;
@@ -41,12 +42,8 @@ ul {
 	width: 83%;
 }
 .sidebar{
-	padding-top:200px;
-	position: sticky;
-	position: -webkit-sticky; /* Safari */
-	top:0;
-	margin-right:80px;
 	text-align: right;
 	font-size:18pt;
 	font-family: "Georgia","Garamond",serif;
+	padding-top:400px;
 }
