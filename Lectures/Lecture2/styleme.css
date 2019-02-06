@@ -1,0 +1,17 @@
+h1 {
+	color: #370a60;
+	background-color: #c9d7ed;
+	font-weight: bold;
+	font-size: 28pt;
+	text-align: center;
+	font-family: "Arial Black", "Helvetica", "Arial",sans-serif;
+}
+h2{
+	letter-spacing: 0.25em;
+	font-family:"Arial",sans-serif;
+	font-size:20pt;
+	color: #370a60;
+}
+ul {
+  list-style-image: url('images/heart.jpeg');
+}

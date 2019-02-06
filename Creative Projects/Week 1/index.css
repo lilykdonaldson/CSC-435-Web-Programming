@@ -1,0 +1,50 @@
+body {
+	background-color: #e5efff;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+#videos {
+	display: block;
+	margin: 0 auto;
+	background-color: #051f49;
+	color:white;
+	text-align: center;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h1 {
+	font-family: "Garamond","Arial",sans-serif;
+	text-align: center;
+	font-size: 50px;
+	color: navy;
+}
+p {
+	font-family: "Helvetica Neue","Gill Sans",sans-serif;
+}
+#quiz {
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+h2 {
+	font-family: "Gill Sans",sans-serif;
+	color: teal;
+}
+h3 {
+	font-family: "Gill Sans",sans-serif;
+	color: darkpink;
+}
+ul {
+  list-style-type: square;
+}
+a:link {
+  color: teal;
+}
+a:visited {
+  color: grey;
+}
+iframe {
+	border:none;
+}
