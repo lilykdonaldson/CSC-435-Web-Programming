@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <script  src="DragBall.js" type="text/javascript"></script>
+    </head>
+    <body>
+    <p>Drag the ball.</p>
+    <img src="ball.svg" style="cursor: pointer; position: absolute; z-index: 1000; left: 440px; top: 44px;" width="40" height="40" id="ball">
+    <script>
+    function mouseDown(event){
+    	this.style.zIndex=10;
+    	this.dragging=true;
+    	this.prevX= event.clientX;
+    	this.prevY= event.clientY;
+    }
+    function mouseUp(event){
+    	this.dragging=false;
+    }
+    function mouseMove(event){
+    	
+    }
+    </script>
+    </body>
+
+
+</html>

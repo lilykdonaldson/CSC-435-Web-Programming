@@ -1,0 +1,12 @@
+#mybutton{
+	font-size: 125%;
+	background-color: pink;
+	text-decoration: bold;
+	display:flex;
+	margin:auto;
+}
+
+img {
+	display:flex;
+	margin:auto;
+}
